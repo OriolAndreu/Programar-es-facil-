@@ -1,0 +1,2 @@
+nom = "Oriol"
+print(nom)
