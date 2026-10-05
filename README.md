@@ -1,4 +1,4 @@
-# Programar-es-facil-
+# Programar és fàcil
 Projecte per aprendre a programar en Python
 
 # Autor
