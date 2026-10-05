@@ -1,5 +1,0 @@
-a = int(input("Digues un numero \n"))
-b = int(input("Un altre \n"))
-print (a - b)
-print (a * b)
-print(a / b)
