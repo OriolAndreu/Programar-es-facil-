@@ -1,2 +1,0 @@
-nom = "Oriol"
-print(nom)
